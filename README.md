@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my github profile 👋
+In my repositories you can find most of the work I've done in the last two semesters. I recommend to take a look at the machine learning stuff, since it's written in python and done in jupyter notebooks (it looks really fancy in github :grin:) 
+
+Each Repository resembeles one lecture I took part. Further READMEs in each repository will guide you through. 
 
 <!--
 **skishp/skishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

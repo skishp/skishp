@@ -3,7 +3,7 @@ In my repositories you can find most of the work I've done in the last two semes
 
 Each Repository resembeles one lecture I took part. Further READMEs in each repository will guide you through. 
 
-Since I just started recently to upload my code/work to github the repositories are currently not complete 😅, but I will be updating the repositorys frequently. However you still will be able to get a good overview of what I've done so far.  
+Since I just started recently to upload my code/work to github the repositories are currently not complete 😅, but I will be updating the repositories frequently. However you still will be able to get a good overview of what I've done so far.  
 
 Quick overview of the repositories currently available: 
 * Methods of Machine Learning | Lecture winter semester 2022

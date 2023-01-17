@@ -9,6 +9,7 @@ Quick overview of the repositories currently available:
 * Methods of Machine Learning | Lecture winter semester 2022
 * High Performance Computig   | Lecture winter semester 2022
 * Computer Vision 1           | Lecture summer semester 2022
+* Learning System 1           | Lecture summer semester 2022
 
 Have fun looking through my repositories 👍😁
 <!--

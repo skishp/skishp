@@ -2,7 +2,8 @@
 In my repositories you can find most of the work I've done in the last two semesters. I recommend to take a look at the machine learning stuff, since it's written in python and done in jupyter notebooks.
 
 Quick overview of the repositories currently available: 
-* High Performance Computig   
+* High Performance Computig
+* Numerical Methods of Data Science
 * Computer Vision 1           
 * Learning System 1           
 

@@ -1,15 +1,10 @@
 ### Welcome to my github profile 👋
-In my repositories you can find most of the work I've done in the last two semesters. I recommend to take a look at the machine learning stuff, since it's written in python and done in jupyter notebooks (it looks really fancy in github 😁) 
-
-Each Repository resembeles one lecture I took part. Further READMEs in each repository will guide you through. 
-
-Since I just started recently to upload my code/work to github the repositories are currently not complete 😅, but I will be updating the repositories frequently. However you still will be able to get a good overview of what I've done so far.  
+In my repositories you can find most of the work I've done in the last two semesters. I recommend to take a look at the machine learning stuff, since it's written in python and done in jupyter notebooks.
 
 Quick overview of the repositories currently available: 
-* Methods of Machine Learning | Lecture winter semester 2022
-* High Performance Computig   | Lecture winter semester 2022
-* Computer Vision 1           | Lecture summer semester 2022
-* Learning System 1           | Lecture summer semester 2022
+* High Performance Computig   
+* Computer Vision 1           
+* Learning System 1           
 
 Have fun looking through my repositories 👍😁
 <!--
